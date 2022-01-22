@@ -6,7 +6,7 @@ using the arrow keys or the wasd keys to move around and jump you will navigate 
 
 the reason for writing this program was mainly for my own experimenting and testing my skills when it comes to creating a game. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Video Game Demo Video](https://youtu.be/_KsJOe1vZYE)
 
 # Development Environment
 
